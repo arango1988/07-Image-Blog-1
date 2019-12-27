@@ -1,0 +1,16 @@
+* {
+    font-family: Girassol;
+}
+
+h1 {
+    margin-left: 1.66%;
+    border-bottom: 3px solid #8aacff;
+    width: 30%;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
